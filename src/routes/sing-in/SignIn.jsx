@@ -1,7 +1,9 @@
 import { 
     signInWithGooglePopup,
+    signInWithGoogleRedirect,
     createUserDocumentFromAuth
 } from '../../utils/firebase/firebase.utils';
+import SignUpForm from '../../components/sign-up-form/SignUpForm';
 
 
 const SignIn = () => {
@@ -19,6 +21,11 @@ const SignIn = () => {
             <button onClick={logGoogleUser}>
                 Sign in with Google Popup
             </button>
+            <button onClick={signInWithGoogleRedirect}>
+                Sign in with Google Popup
+            </button>
+
+            <SignUpForm />
         </div>
     );
 }
