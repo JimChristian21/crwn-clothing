@@ -6,27 +6,27 @@ const Home = () => {
     {
       "id": 1,
       "title": "hats",
-      "imageUrl": "https://i.ibb.co/cvpntL1/hats.png"
+      "imageUrl": "https://w0.peakpx.com/wallpaper/242/53/HD-wallpaper-attitude-black-broken-dark-devil-hat-men-in-hat-smoke-villains.jpg"
     },
     {
       "id": 2,
       "title": "jackets",
-      "imageUrl": "https://i.ibb.co/px2tCc3/jackets.png"
+      "imageUrl": "https://www.svadore.com/wp-content/uploads/2019/04/Shopping-in-Shanghai-The-3-Best-Stalls-at-The-Fabric-Market-asia-china-shanghai-fashion-leather-jackets-gloves-eyewear-sunglasses-eyeglasses-fake-counterfeit-best-shopping-1-6-scaled.jpg"
     },
     {
       "id": 3,
       "title": "sneakers",
-      "imageUrl": "https://i.ibb.co/0jqHpnp/sneakers.png"
+      "imageUrl": "https://e0.pxfuel.com/wallpapers/418/797/desktop-wallpaper-sneakerhead.jpg"
     },
     {
       "id": 4,
       "title": "womens",
-      "imageUrl": "https://i.ibb.co/GCCdy8t/womens.png"
+      "imageUrl": "https://wallpaperaccess.com/full/7151641.jpg"
     },
     {
       "id": 5,
       "title": "mens",
-      "imageUrl": "https://i.ibb.co/R70vBrQ/men.png"
+      "imageUrl": "https://wallpapers.com/images/high/vogue-street-style-mens-fashion-dsfji3119irooc02.webp"
     }
   ]
 
