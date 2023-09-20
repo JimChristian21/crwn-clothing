@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "name": "Brown Brim",
+      "imageUrl": "https://img.freepik.com/free-vector/black-friday-sale-banner-with-colorful-sneakers_1284-30132.jpg?w=740&t=st=1695141459~exp=1695142059~hmac=a28a45dd258b72109770bf8571286fab55973d77990c025dfd343c37b6f1e377",
+      "price": 25
+    },
+    {
+      "id": 2,
+      "name": "Blue Beanie",
+      "imageUrl": "https://img.freepik.com/free-vector/black-friday-sale-banner-with-colorful-sneakers_1284-30132.jpg?w=740&t=st=1695141459~exp=1695142059~hmac=a28a45dd258b72109770bf8571286fab55973d77990c025dfd343c37b6f1e377",
+      "price": 18
+    },
+    {
+      "id": 3,
+      "name": "Brown Cowboy",
+      "imageUrl": "https://img.freepik.com/free-vector/black-friday-sale-banner-with-colorful-sneakers_1284-30132.jpg?w=740&t=st=1695141459~exp=1695142059~hmac=a28a45dd258b72109770bf8571286fab55973d77990c025dfd343c37b6f1e377",
+      "price": 35
+    },
+    {
+      "id": 4,
+      "name": "Grey Brim",
+      "imageUrl": "https://img.freepik.com/free-vector/black-friday-sale-banner-with-colorful-sneakers_1284-30132.jpg?w=740&t=st=1695141459~exp=1695142059~hmac=a28a45dd258b72109770bf8571286fab55973d77990c025dfd343c37b6f1e377",
+      "price": 25
+    },
+    {
+      "id": 5,
+      "name": "Green Beanie",
+      "imageUrl": "https://img.freepik.com/free-vector/black-friday-sale-banner-with-colorful-sneakers_1284-30132.jpg?w=740&t=st=1695141459~exp=1695142059~hmac=a28a45dd258b72109770bf8571286fab55973d77990c025dfd343c37b6f1e377",
+      "price": 18
+    },
+    {
+      "id": 6,
+      "name": "Palm Tree Cap",
+      "imageUrl": "https://img.freepik.com/free-vector/black-friday-sale-banner-with-colorful-sneakers_1284-30132.jpg?w=740&t=st=1695141459~exp=1695142059~hmac=a28a45dd258b72109770bf8571286fab55973d77990c025dfd343c37b6f1e377",
+      "price": 14
+    },
+    {
+      "id": 7,
+      "name": "Red Beanie",
+      "imageUrl": "https://img.freepik.com/free-vector/black-friday-sale-banner-with-colorful-sneakers_1284-30132.jpg?w=740&t=st=1695141459~exp=1695142059~hmac=a28a45dd258b72109770bf8571286fab55973d77990c025dfd343c37b6f1e377",
+      "price": 18
+    },
+    {
+      "id": 8,
+      "name": "Wolf Cap",
+      "imageUrl": "https://img.freepik.com/free-vector/black-friday-sale-banner-with-colorful-sneakers_1284-30132.jpg?w=740&t=st=1695141459~exp=1695142059~hmac=a28a45dd258b72109770bf8571286fab55973d77990c025dfd343c37b6f1e377",
+      "price": 14
+    },
+    {
+      "id": 9,
+      "name": "Blue Snapback",
+      "imageUrl": "https://img.freepik.com/free-vector/black-friday-sale-banner-with-colorful-sneakers_1284-30132.jpg?w=740&t=st=1695141459~exp=1695142059~hmac=a28a45dd258b72109770bf8571286fab55973d77990c025dfd343c37b6f1e377",
+      "price": 16
+    }
+  ]
